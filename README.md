@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Age calculator app ](./design/desktop-preview.jpg)
+![Task-management-app ](./design/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -18,7 +18,6 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,7 +25,7 @@
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Add new todos to the list
 - Mark todos as complete
@@ -57,12 +56,10 @@ Users should be able to:
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
 ## Author
 
-- Website - [Favourite_coder](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Favourite_coder](https:)
+- Frontend Mentor
 
 ## Contributing
 
